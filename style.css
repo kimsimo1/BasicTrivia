@@ -1,0 +1,8 @@
+button {border-radius: 5px;
+       background-color: goldenrod;
+       font-size: 1.5em;
+       box-shadow: 5px 5px}
+body {background-color: lightyellow;
+     color: saddlebrown;
+     font-family: papyrus, serif;
+     font-weight: bolder;}
